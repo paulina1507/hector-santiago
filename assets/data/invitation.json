@@ -34,7 +34,7 @@
   "hero": {
     "pretitle": "Bautizo y 3 Años",
     "names": "Héctor Santiago",
-    "date": "2026-06-27T16:00:00",
+    "date": "2026-06-27T08:00:00",
     "background": "assets/img/hero.png"
   },
   "presentation": {
@@ -70,7 +70,7 @@
     "places": [
       {
         "title": "Ceremonia Religiosa",
-        "time": "04:00 PM",
+        "time": "08:00 AM",
         "image": "assets/img/ceremonia.png",
         "place": "Basílica Santa María de Guadalupe",
         "address": "Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Ciudad de México, CDMX",
@@ -78,7 +78,7 @@
       },
       {
         "title": "Celebración",
-        "time": "05:00 PM",
+        "time": "04:00 PM",
         "image": "assets/img/recepcion.png",
         "place": "Salon de fiestas infantiles El Patio De Mi Casa",
         "address": "Calle Colina azul. 17. Esquina, Principal Col, San Rafael Chamapa, 53664 México, Méx.",
@@ -143,7 +143,7 @@
     "title": "Galería",
     "type": "images",
     "items": [
-      "assets/img/gallery/1.jpg",
+      "assets/img/gallery/1.png",
       "assets/img/gallery/2.jpg",
       "assets/img/gallery/3.jpg",
       "assets/img/gallery/4.jpg",
