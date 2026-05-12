@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "pageTitle": "Bautizo de Héctor Santiago"
+  },
+  "site": {
+    "couple": "Héctor Santiago"
+  },
+  "nav": {
+    "left": [
+      {
+        "label": "Inicio",
+        "href": "#hero"
+      },
+      {
+        "label": "Presentación",
+        "href": "#presentation"
+      }
+    ],
+    "right": [
+      {
+        "label": "Ceremonia",
+        "href": "#location"
+      },
+      {
+        "label": "Confirmación",
+        "href": "#rsvp"
+      }
+    ]
+  },
+  "music": {
+    "src": "assets/audio/cancion.mp3",
+    "autoplay": true
+  },
+  "hero": {
+    "pretitle": "Bautizo y 3 Años",
+    "names": "Héctor Santiago",
+    "date": "2026-06-27T16:00:00",
+    "background": "assets/img/hero.png"
+  },
+  "presentation": {
+    "title": "Con la gracia de Dios",
+    "parents": [
+      {
+        "names": [
+          "Giovana Montserrat Nieves Jiménez",
+          "Luis Abraham González Flores"
+        ],
+        "note": "Papás"
+      }
+    ],
+    "padrinos": [
+      {
+        "names": [
+          "Luz Janet Mancilla Espino"
+        ],
+        "note": "Madrina de Bautizo"
+      }
+    ],
+    "text": "Llenos de fe y amor, presentamos ante Dios a nuestro hijo para recibir el Sacramento del Bautismo y celebrar también sus 3 años de vida. Nos encantará compartir este momento tan especial contigo.",
+    "icon": "assets/img/cruz.svg"
+  },
+  "gratitude": {
+    "title": "Con gratitud",
+    "text": "Agradecemos a Dios y a cada uno de ustedes por acompañarnos en este día tan importante para nuestra familia."
+  },
+  "location": {
+    "title": "Ceremonia y celebración",
+    "subtitle": "Fecha y ubicación",
+    "dateText": "27 · Junio · 2026",
+    "places": [
+      {
+        "title": "Ceremonia Religiosa",
+        "time": "04:00 PM",
+        "image": "assets/img/ceremonia.png",
+        "place": "Basílica Santa María de Guadalupe",
+        "address": "Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Ciudad de México, CDMX",
+        "map": "https://maps.app.goo.gl/sN5kDmCqqwPL484q7"
+      },
+      {
+        "title": "Celebración",
+        "time": "05:00 PM",
+        "image": "assets/img/recepcion.png",
+        "place": "Salon de fiestas infantiles El Patio De Mi Casa",
+        "address": "Calle Colina azul. 17. Esquina, Principal Col, San Rafael Chamapa, 53664 México, Méx.",
+        "map": "https://maps.app.goo.gl/K9TbUu1Z4HDy4bgt6"
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Programa",
+    "items": [
+      {
+        "time": "10:00 AM",
+        "text": "Celebración del Sacramento del Bautismo",
+        "icon": "assets/img/3.svg"
+      },
+      {
+        "time": "03:00 PM",
+        "text": "Recepción",
+        "icon": "assets/img/6.svg"
+      },
+      {
+        "time": "04:00 PM - 06:00 PM",
+        "text": "Comida",
+        "icon": "assets/img/7.svg"
+      },
+      {
+        "time": "06:00 PM - 09:00 PM",
+        "text": "Música en vivo por Amenaza Norteña",
+        "icon": "assets/img/12.svg"
+      }
+    ]
+  },
+  "dresscode": {
+    "title": "Código de Vestimenta",
+    "type": "Formal",
+    "image": "assets/img/9.svg",
+    "menTitle": "",
+    "womenTitle": "",
+    "men": [],
+    "women": [],
+    "note": "Tonos pastel, neutros o suaves"
+  },
+  "gifts": {
+    "title": "Sugerencia de Regalos",
+    "intro": "Lo más importante es compartir este día contigo, pero si deseas obsequiarnos algo, lo recibiremos con mucho cariño.",
+    "options": [
+      {
+        "title": "",
+        "description": "",
+        "type": "link",
+        "url": "",
+        "buttonText": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "type": "text"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería",
+    "type": "images",
+    "items": [
+      "assets/img/gallery/1.jpg",
+      "assets/img/gallery/2.jpg",
+      "assets/img/gallery/3.jpg",
+      "assets/img/gallery/4.jpg",
+      "assets/img/gallery/5.jpg",
+      "assets/img/gallery/6.jpg"
+    ]
+  },
+  "rsvp": {
+    "phone": "525621055577",
+    "title": "Confirmación de Asistencia",
+    "intro": "Nos encantará contar contigo. Por favor confirma tu asistencia.",
+    "fields": {
+      "namePlaceholder": "Nombre completo",
+      "attendancePlaceholder": "¿Podrás acompañarnos?",
+      "attendanceOptions": ["Sí asistiré", "No podré asistir"],
+      "messagePlaceholder": "Mensaje o bendición",
+      "buttonText": "Confirmar por WhatsApp"
+    },
+    "note": "Agradecemos confirmar antes del <strong>15 de junio de 2026</strong>.",
+    "success": "Gracias por confirmar"
+  },
+  "footer": {
+    "names": "Bautizo y 3 Años de Héctor Santiago",
+    "credits": "Diseñado con amor por Shiny Maker Studio"
+  }
+}
